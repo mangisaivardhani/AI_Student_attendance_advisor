@@ -155,11 +155,3 @@ Agentic-AI-Attendance-Advisor/
 ├── LICENSE
 ```
 
-
- 📜 License
-
-This project is licensed under the MIT License.
-
---Dadi Institute of Engineering and Technology
-
-Academic Year: 2025–2026
